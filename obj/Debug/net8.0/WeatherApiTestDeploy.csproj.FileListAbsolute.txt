@@ -31,3 +31,4 @@ C:\WORK\GIT\c#Training\WeatherApiTestDeploy\obj\Debug\net8.0\refint\WeatherApiTe
 C:\WORK\GIT\c#Training\WeatherApiTestDeploy\obj\Debug\net8.0\WeatherApiTestDeploy.pdb
 C:\WORK\GIT\c#Training\WeatherApiTestDeploy\obj\Debug\net8.0\WeatherApiTestDeploy.genruntimeconfig.cache
 C:\WORK\GIT\c#Training\WeatherApiTestDeploy\obj\Debug\net8.0\ref\WeatherApiTestDeploy.dll
+C:\WORK\GIT\c#Training\WeatherApiTestDeploy\obj\Debug\net8.0\WeatherApiTestDeploy.sourcelink.json
