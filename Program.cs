@@ -27,7 +27,6 @@ app.UseSwaggerUI(options =>
     else
         options.RoutePrefix = string.Empty;
 });
-app.UseSwagger();
 
 app.UseHttpsRedirection();
 
